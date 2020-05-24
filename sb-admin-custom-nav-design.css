@@ -1,0 +1,39 @@
+/*
+sb-topnav class theme.
+if you want to use navbar-light class or navbar-dark class, you must include bg class theme.
+if you want to use custom color from this css, remove bg class.
+*/
+.sb-topnav {
+  /* background-color: #343a40; */
+  /* background-image: url("your image directory"); */
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*
+sb-sidenav class theme.
+you can use sb-sidenav-dark class or sb-sidenav-light class in the sb-sidenav class element.
+*/
+.sb-sidenav-menu {
+  /* background-color: #212529; */
+  /* background-image: url("your image directory"); */
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*
+footer element theme based by bg class and text class only.
+if you want to use custom color from this css, remove bg class.
+*/
+footer {
+  /* background-color: #343a40; */
+  /* background-image: url("your image directory"); */
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
