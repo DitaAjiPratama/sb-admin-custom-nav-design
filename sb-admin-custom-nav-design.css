@@ -24,6 +24,14 @@ you can use sb-sidenav-dark class or sb-sidenav-light class in the sb-sidenav cl
   background-repeat: no-repeat;
   background-position: center;
 }
+.sb-sidenav-footer {
+  /* background-color: #FFABB2 !important; */
+  /* background-image: url("your image directory"); */
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 /*
 footer element theme based by bg class and text class only.
